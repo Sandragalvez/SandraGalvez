@@ -46,7 +46,7 @@ Para abordar estas cuestiones, se llevará a cabo un análisis exploratorio comp
 
 ### Conjunto de datos 
 
-Dataset extraido de [Kaggle](https://www.kaggle.com/) .
+Dataset extraído de [Kaggle](https://www.kaggle.com/) .
 
 
 
